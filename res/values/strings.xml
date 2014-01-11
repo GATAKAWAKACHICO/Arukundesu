@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">あるくんです</string>
+    <string name="slime">スライム</string>
+    <string name="najimido">なじみど</string>
+    <string name="tochimei">大草原</string>
+    <string name="battle_description">敵があらわれました！\n応援してあげましょう！</string>
+    <string name="battle_win_description">敵を倒した！</string>
+    <string name="cheer_up">応援する！</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
